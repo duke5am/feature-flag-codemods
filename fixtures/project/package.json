@@ -1,0 +1,9 @@
+{
+  "name": "acme-console-fixture",
+  "private": true,
+  "type": "module",
+  "description": "A deliberately ordinary web app used as the test fixture for Feature Flag Cleanup Codemods. Nothing here is a real product; every file exists to exercise one shape of flag usage, including the shapes the codemods must refuse.",
+  "scripts": {
+    "build": "echo 'not a real build'"
+  }
+}

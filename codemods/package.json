@@ -1,0 +1,17 @@
+{
+  "name": "feature-flag-cleanup-codemods",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Feature Flag Cleanup Codemods. Zero dependencies: this file exists only to mark these scripts as ES modules so they behave identically in any repository, whatever that repository's own package.json says.",
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "scripts": {
+    "test": "node --test ../tests/*.test.js",
+    "inventory": "node codemods/find-stale-flags.js",
+    "remove-on": "node codemods/remove-enabled-flag.js",
+    "remove-off": "node codemods/remove-disabled-flag.js",
+    "unwrap": "node codemods/unwrap-provider.js"
+  }
+}
