@@ -84,4 +84,4 @@ Node 18.17+. Nothing to install.
 The paid kit adds the `WORKFLOW.md` process for clearing a backlog, the full
 fixture project with every hard case, and 84 tests.
 
-→ **Feature Flag Cleanup Codemods**: <!-- GUMROAD-LINK -->
+→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
