@@ -105,4 +105,4 @@ If you arrived here searching for one of these, this is the tool: **remove stale
 
 <!-- RELATED:END -->
 
-→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
+→ **[Feature Flag Cleanup Codemods](https://duke5am.gumroad.com/l/28-feature-flag-codemods)** — $29 on Gumroad <!-- GUMROAD-LINK -->
